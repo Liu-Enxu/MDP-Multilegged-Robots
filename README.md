@@ -1,4 +1,4 @@
-# MDP-Multilegged-Robots
+# MDP Multilegged Robots & PCB debug
 Umich MDP program
 
 PCB debugging and alternative plan:
